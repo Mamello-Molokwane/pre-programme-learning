@@ -14,8 +14,3 @@
     I reached week 1 of CS50P where they teach conditionals and even though it was also something I already knew from the bootcamp I learned about the match-case conditionals which seemed much easier
     than if-else but it only works in certain situation. The projects aren't that hard and everytime I
     complete a project there's this confidence boost I get from getting it right. Programming is fun.
-
-### Week 4
-    I'm at week 2 of CS50P where they teach loops, list, dictionaries and other functions like len() and
-    I'm starting to feel that it's getting more challenging with the projects, specifically meal time but
-    I know finishing this is gonna give me more confidence with python so I'm excited to complete it. 
