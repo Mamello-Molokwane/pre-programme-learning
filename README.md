@@ -13,4 +13,4 @@
 ### Week 3
     I reached week 1 of CS50P where they teach conditionals and even though it was also something I already knew from the bootcamp I learned about the match-case conditionals which seemed much easier
     than if-else but it only works in certain situation. The projects aren't that hard and everytime I
-    complete a project there's this confidence boost I get from getting it right. Programming is fun.
+    complete a project there's this confidence boost I get from getting it right. Meal Time was a bit more challenging than the rest but it was still fun to complete.
