@@ -1,2 +1,3 @@
 # Journal
+
 ## What I learned
