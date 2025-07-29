@@ -14,3 +14,10 @@
     I reached week 1 of CS50P where they teach conditionals and even though it was also something I already knew from the bootcamp I learned about the match-case conditionals which seemed much easier
     than if-else but it only works in certain situation. The projects aren't that hard and everytime I
     complete a project there's this confidence boost I get from getting it right. Meal Time was a bit more challenging than the rest but it was still fun to complete.
+
+### Week 4
+    I completed week 2 of CS50P which was about loops, lists and dictionaries. This lesson helped me
+    understand dictionaries better because I had trouble with printing values instead of the keys
+    using loops but I know how to do that now. The problem set wasn't that hard but it was a little challenging when it got to vanity plates and I had to use a dictionary in nutrition which was 
+    where I learned to access the values and not just the keys of a dictionary. Overall this was 
+    also an enjoyable lesson.
