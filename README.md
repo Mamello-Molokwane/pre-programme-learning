@@ -21,3 +21,9 @@
     using loops but I know how to do that now. The problem set wasn't that hard but it was a little challenging when it got to vanity plates and I had to use a dictionary in nutrition which was 
     where I learned to access the values and not just the keys of a dictionary. Overall this was 
     also an enjoyable lesson.
+
+### Week 5
+    I completed week 3 of  CS50P which was about exceptions. I learned a lot about error handling and
+    catching what I think is the most common type of error when it comes to user input, ValueError.
+    Grocery and outdated were a bit more challenging especially outdated because the amount of ValueErrors
+    I had to catch and handle. Even though they were more challenging solving them gave me the most confidence in error handling and using dictionaries. I enjoy week 3 and now onto week 4 of CS50P.
