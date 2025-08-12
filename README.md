@@ -27,3 +27,12 @@
     catching what I think is the most common type of error when it comes to user input, ValueError.
     Grocery and outdated were a bit more challenging especially outdated because the amount of ValueErrors
     I had to catch and handle. Even though they were more challenging solving them gave me the most confidence in error handling and using dictionaries. I enjoy week 3 and now onto week 4 of CS50P.
+
+### Week 6
+    Week 4 of CS50P complete. Week for was about libraries which was an interesting lesson and the problems most included the sys library. I'd say the only part challenging about these problem sets
+    was having to learn about command-line arguments but once I got it it pretty simple. I did enjoy the
+    bitcoin one from the probelem set. Learning about API's opens doors on what is possible and about a
+    lot open source material out there.
+
+### Week 7
+    Completed week 5 of CS50P. The topic was on unit tests which is just creating a seperate file from your main code to test the main code. This lesson was relatively straight forward to learn compared to the others as there there's not much logic that you have to learn. The tricky thing about this lesson was that I had to restracture some of my past code to be able to test it, but other than that it was a breather.
